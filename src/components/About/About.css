@@ -1,0 +1,33 @@
+/* About.css */
+  h2 {
+    font-size: 34px;
+    color: #333;
+  }
+  
+  p {
+    font-size: 22px;
+    color: #666;
+  }
+  
+  select {
+    margin-top: 10px;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #363131;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+   
+}
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  

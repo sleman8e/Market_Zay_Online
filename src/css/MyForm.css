@@ -1,0 +1,35 @@
+/* Form styles */
+.label {
+    color: #008000;
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .input {
+    padding: 8px;
+    border-radius: 8px;
+    font-size: 16px;
+    width: 100%;
+    font-weight: bold;
+    color: #008000;
+    margin-bottom: 10px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    background-color: #363131;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .button:hover {
+    background-color: #008000;
+  }
+  
